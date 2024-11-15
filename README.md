@@ -60,11 +60,9 @@ $ npm run test:watch
 ## Cobertura de testes
 
 ```bash
-# Servidor padrão
+# Rodar cobertura de teste
 $ npm run test:cov
 
 ```
 
 ![Cobertura de testes](coverage.png)
-
-# AtividadeMackenzie
